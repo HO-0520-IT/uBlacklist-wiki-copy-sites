@@ -24,3 +24,7 @@ uBlacklist subscription list for blocking Wikipedia copy sites.
 ## ライセンス / License
 CC0 1.0
 
+## 謝辞 / Acknowledgments
+このリストを制作するにあたり、情報利用を快諾いただいた古閑(Twitter ID:fr0ethi)さんに感謝いたします。
+
+I would like to express my graditude to 古閑(Twitter ID:fr0ethi), who consents to using information to make this list.
